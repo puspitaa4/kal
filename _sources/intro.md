@@ -1,6 +1,6 @@
-# Sistem Persamaan Linnear
-## Definisi Sistem Persamaan Linnear
-## Solusi Persamaan Linnear
+# Sistem Persamaan Linier
+## Definisi Sistem Persamaan Linier
+## Solusi Persamaan Linier
 ### Eliminasi 
 ### Eliminasi Gauss
 ### Solusi Grafik
